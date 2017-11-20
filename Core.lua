@@ -26,7 +26,9 @@ function HotCandy:OnInitialize()
 				name = "Show Anchor",
 				desc = "Show the Anchor for moving the Bars",
 				type = "execute",
-				func = "ShowAnchors",
+				func = function()
+					return self:ShowAnchors()
+				end
 			},
 			growup = {
 				name = "Grow Up",

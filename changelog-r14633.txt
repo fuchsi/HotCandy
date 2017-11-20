@@ -1,4 +1,8 @@
 ------------------------------------------------------------------------
+r14633 | fuchsi | 2017-11-20 9:40:00 +0000 (Mon, 20 Nov 2017) | 3 lines
+
+HotCandy: Use the correct OptionHandler for /hot anchor
+------------------------------------------------------------------------
 r14632 | nevcairiel | 2006-10-21 07:30:02 -0400 (Sat, 21 Oct 2006) | 1 line
 
 HotCandy: AceHook-2.1 and Babble-2.2
